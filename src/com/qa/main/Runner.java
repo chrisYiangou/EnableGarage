@@ -17,6 +17,12 @@ public class Runner {
 		garage.addVehicle(mb);
 		
 		garage.printGarageContents();
+		
+		garage.printOne(5);
+		
+		System.out.println("Hello Boss");
+		
+		garage.calculateBill();
 			
 		
 	}

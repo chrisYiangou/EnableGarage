@@ -1,10 +1,9 @@
 package com.qa.main.vehicles;
-
+			//sub        // Super
 public class Car extends Vehicle {
 
 	public Car(String make) {
 		super(make);
-		// TODO Auto-generated constructor stub
 	}
 
 	public void reverse() {
